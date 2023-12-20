@@ -6,6 +6,6 @@ It is about the sentiment analysis on pre-trianed and fine tune on BERT using im
 
 Here is the classification report and confussion matrix.
 
-![classification-report](https://github.com/SIRIUS-webkit/Sentiment-Analysis-BERT-IMDB/classification-report.png)
+![classification-report](https://github.com/SIRIUS-webkit/Sentiment-Analysis-BERT-IMDB/blob/master/classification-report.png)
 
-![confussion-matrix](https://github.com/SIRIUS-webkit/Sentiment-Analysis-BERT-IMDB/confussion-metrix.png)
+![confussion-matrix](https://github.com/SIRIUS-webkit/Sentiment-Analysis-BERT-IMDB/blob/master/confussion-metrix.png)
